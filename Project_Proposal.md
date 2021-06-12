@@ -9,10 +9,10 @@ The social media platform of interest is Twitter
 Daily mentions of designated cryptocurrencies
 
 Cryptocurrencies highlighted will be: Bitcoin, Ethereum, Tether, Cardano, and Dogecoin  
-	Date, Daily High, Volume
+⋅⋅⋅Date, Daily High, Volume
 
 Stock Market data will be gathered from the Dow Jones and NASDAQ  
-	Date, Daily High, Volume
+⋅⋅⋅Date, Daily High, Volume
 	
 Social Media data will be gathered from Twitter
 All financial data will be gathered from Yahoo Finance
